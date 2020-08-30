@@ -1,0 +1,1 @@
+dir > name_of_all_floders.txt
